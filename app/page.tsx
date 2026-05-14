@@ -1,7 +1,7 @@
-import Navbar from "@/components/Navbar";
-import Hero from "@/components/Hero";
-import Filters from "@/components/Filters";
-import ProductCard from "@/components/ProductCard";
+import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
+import Filters from "../components/Filters";
+import ProductCard from "../components/ProductCard";
 
 export default function HomePage() {
 
